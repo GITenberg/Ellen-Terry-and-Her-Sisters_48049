@@ -1,0 +1,26 @@
+_repo: Ellen-Terry-and-Her-Sisters_48049
+creator:
+  author:
+    agent_name: Pemberton, T. Edgar (Thomas Edgar)
+    aliases:
+    - Pemberton, Thomas Edgar
+    - Pemberton, T. E. (Thomas Edgar)
+    birthdate: 1849
+    deathdate: 1905
+    gutenberg_agent_id: '41210'
+    url: http://www.gutenberg.org/2009/agents/41210
+description: ''
+gutenberg_issued: '2015-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Terry, Ellen, Dame, 1847-1928'
+- !lcsh 'Actresses -- Great Britain -- Biography'
+title: Ellen Terry and Her Sisters
+url: http://www.gutenberg.org/ebooks/48049
