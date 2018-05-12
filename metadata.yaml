@@ -1,4 +1,8 @@
 _repo: Ellen-Terry-and-Her-Sisters_48049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48049-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Pemberton, T. Edgar (Thomas Edgar)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '41210'
     url: http://www.gutenberg.org/2009/agents/41210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48049#Ellen-Terry-and-Her-Sisters
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
